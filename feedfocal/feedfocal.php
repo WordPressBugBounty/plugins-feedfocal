@@ -16,7 +16,7 @@
  * Plugin Name:       FeedFocal
  * Plugin URI:        FeedFocal
  * Description:       Easily collect customer feedback to improve your users experience.
- * Version:           1.3.0
+ * Version:           1.3.2
  * Author:            FeedFocal
  * Author URI:        feedfocal.com
  * License:           GPL-2.0+
@@ -33,7 +33,7 @@ if ( ! defined( 'WPINC' ) ) {
 /**
  * Define global variables
  */
-define( 'FEEDFOCAL_VERSION', '1.3.0' );
+define( 'FEEDFOCAL_VERSION', '1.3.2' );
 define( 'FEEDFOCAL_PLUGIN_FILE', plugin_basename(__FILE__) );
 define( 'FEEDFOCAL_PLUGIN_SETTINGS_URL', 'admin.php?page=feedfocal_projects' );
 

@@ -1,9 +1,9 @@
 === FeedFocal ===
 Contributors: feedfocal
-Tags: feedback, surveys, user feedback, website feedback, tracking, ecommerce, nps, net promoter score
+Tags: feedback, surveys, user feedback, website feedback, net promoter score
 Requires at least: 5.0.0
-Tested up to: 6.4.3
-Stable tag: 1.3.0
+Tested up to: 6.8.0
+Stable tag: 1.3.2
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -53,6 +53,12 @@ A great user experience is essential for success and can help ensure your users 
 4. Go to the FeedFocal settings page and paste your survey code.
 
 == Changelog ==
+
+= 1.3.2 =
+* No changes. Updated to push through previous version.
+
+= 1.3.1 =
+* Tested up to changed to v6.8.0 to confirm compatibility with latest version of WordPress.
 
 = 1.3.0 =
 * Authentication added to ensure only users with "manage_options" permissions can save survey code.
